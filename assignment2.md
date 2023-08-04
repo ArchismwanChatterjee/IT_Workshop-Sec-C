@@ -1,3 +1,5 @@
+Day 2 :
+
 9. Write a program to sort three numbers using if-elif-else.
 
 10. Write a program to calculate simple interest with the following conditions:
@@ -9,17 +11,22 @@ If the principal amount is greater than 10,00,000 the interest rate is 15%.
 
 a)
 
-* * * * * * * * * 
- * * * * * * *
-  * * * * *
-   * * *
-    *
+    *********
+     *******
+      *****
+       ***
+        *
 
 b)  
+     
      1
+     
      2 , 3
+     
      4, 5, 6
+     
      7 , 8, 9, 10
+     
      11, 12, 13, 14, 15
 
 
