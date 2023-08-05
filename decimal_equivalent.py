@@ -1,5 +1,6 @@
 a=2
-for i in range(9):
+number=int(input("Enter range")
+for i in range(1,number,1):
     print("The decimal equivalent is ",1/a)
     a=a+1
 
