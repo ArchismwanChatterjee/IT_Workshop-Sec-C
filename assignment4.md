@@ -1,4 +1,5 @@
 Strings
+
 21. Write a program to count the number of each vowel in a sentence.
 
 22. Write a program to read a string and check whether the string is a palindrome or not.
