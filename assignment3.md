@@ -1,4 +1,5 @@
 Control Statements
+
 15. Write a program to check whether a given number is a prime number or not.
 
 16. Write a program to check whether a given number is an Armstrong number or not.
