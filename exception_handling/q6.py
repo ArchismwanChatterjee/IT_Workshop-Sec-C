@@ -18,3 +18,8 @@ except NegativeAgeError as nae:
     print(nae)
 except ValueError:
     print("Error: Please enter a valid integer for age.")
+
+'''
+Enter the age of the person: -2
+Error: Age cannot be negative (-2)
+'''

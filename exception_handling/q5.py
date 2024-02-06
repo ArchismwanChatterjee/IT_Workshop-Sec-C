@@ -4,13 +4,12 @@ class BelowThresholdError(Exception):
         super().__init__(f"Error: {value} is below the threshold (0.5)")
 
 def generate_random_number():
-    number = random.random()  # Generates a random float between 0 and 1
+    number = random.random() 
     print("Generated random number:", number)
     
     if number < 0.5:
         raise BelowThresholdError(number)
 
-# Import the random module
 import random
 
 try:
@@ -18,3 +17,7 @@ try:
 
 except BelowThresholdError as bte:
     print(bte)
+
+'''
+Generated random number: 0.5552496065285105
+'''
